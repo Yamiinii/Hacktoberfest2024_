@@ -16,16 +16,6 @@ Follow these instructions to get a copy of the project up and running on your lo
 Prerequisites
 Make sure you have a web browser installed.
 
-Installation
-Clone the repository:
-bash
-Copy code
-git clone https://github.com/yourusername/todo-list-app.git
-Navigate to the project directory:
-bash
-Copy code
-cd todo-list-app
-Open index.html in your web browser to start the app.
 Usage
 Add a new task by typing it into the input field and clicking the "Add Task" button.
 Remove a task by clicking the "Remove" button next to the task.
@@ -34,6 +24,6 @@ License
 This project is licensed under the MIT License.
 
 Contact
-For any questions or feedback, please contact [your email].
+For any questions or feedback, please contact yamini6375@gmail.com.
 
 Enjoy managing your tasks!
